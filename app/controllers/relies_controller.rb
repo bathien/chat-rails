@@ -1,0 +1,2 @@
+class ReliesController < ApplicationController
+end
